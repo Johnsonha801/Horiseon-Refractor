@@ -76,8 +76,8 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-    margin-right: 20px;
 }
+
 /* Article Section Styles */
 .content article {
     margin-bottom: 20px;
@@ -86,16 +86,19 @@ p {
     background-color: #0072bb;
     overflow: auto;
 }
+
 /* Article Images */
 .content article img {
     max-height: 200px;
     width: 35%;
 }
+
 /* Article div sections that float next to images */
 .content article div {
     float: left;
     width: 65%;
 }
+
 /* Article header 2 styles */
 .content article h2 {
     margin-bottom: 20px;
@@ -105,10 +108,12 @@ p {
 .float-left {
     float: left;
 }
+
 /* float image to right */
 .float-right {
     float: right;
 }
+
 /* Adds padding to left  */
 .padding-left {
     padding-left: 20px;
@@ -117,6 +122,7 @@ p {
 .padding-right {
     padding-right: 20px;
 }
+
 /* END Content Section Styles */
 
 
@@ -162,9 +168,11 @@ p {
     padding: 30px;
     clear: both;
     text-align: center;
+    color: black;
 }
 /* Footer Header 2 */
 .footer h2 {
     font-size: 20px;
+    color: black;
 }
 /* END Footer Styles */
